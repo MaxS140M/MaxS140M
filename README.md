@@ -11,7 +11,7 @@
 
 ### Tech Stack: 
 
-##### Languages
+##### Core
 Python, Java, C++, JavaScript
 
 ##### Frontend
@@ -21,7 +21,7 @@ HTML, CSS, JavaScript, React
 Supabase, SQLite
 
 ##### ML / AI
-scikit-learn, NLP/tokenization, chatbot integration, Rasa, Flask
+scikit-learn, NLP/tokenization, chatbot integration, Rasa, Flask. NLKT
 
 ##### Tools
 Git, Linux, testing frameworks, JUnit
