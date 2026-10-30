@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hello,
 
 ### My name is Max Sloam
 
-- I’m currently working on my github.io page.
 - I’m currently Studying Computer Science at the Univerisity of Nottingham.
 - I am a 3rd Year Student.
 - How to reach me: Maxsloam.work@gmail.com
